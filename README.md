@@ -1,2 +1,2 @@
 # retro-nppes-api
-NPPES API For CMS (Medicare 
+EfeyoPixels Client for NPPES API (National Plan and Provider Enumeration System)
